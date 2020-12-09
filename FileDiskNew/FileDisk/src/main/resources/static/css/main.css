@@ -1,0 +1,29 @@
+.navbar-expand-lg .navbar-nav .nav-link {
+        padding-right: .15rem;
+        padding-left: .15rem;
+    }
+
+@media (min-width: 992px){
+    .navbar-expand-lg .navbar-nav .nav-link {
+        padding-right: 20px;
+        padding-left: 20px;
+    }
+}
+
+.form-control{margin: 0 auto;}
+
+.btn-primary {
+
+
+    background-color: #CDA5CC;
+    border-color: #CDA5CC;}
+
+
+.btn-primary:hover {
+    color: #fff;
+    background-color: #CD83CB;
+    border-color: #CD83CB;}
+
+
+.bg-light {
+    background-color: none !important}
